@@ -1,8 +1,3 @@
-Here's your complete and **stylish `README.md` in one file**, ready to copy and paste into your repository:
-
----
-
-````markdown
 # 🗓️ Event Scheduler
 
 A user-friendly **desktop application** built with **Python** and **Tkinter** for scheduling and visualizing events on a graphical timeline.
@@ -59,11 +54,8 @@ git clone https://github.com/mmanikandan281/Event-Scheduler.git
 # Navigate into the project folder
 cd Event-Scheduler
 
-# (Optional) Check requirements
-pip install -r requirements.txt
-````
 
-> 💡 Note: `requirements.txt` is empty as Tkinter is built-in.
+```
 
 ---
 
@@ -137,18 +129,7 @@ Event-Scheduler/
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions! To contribute:
-
-1. 🍴 Fork the repository
-2. 📂 Create a new branch: `git checkout -b feature/your-feature`
-3. ✍️ Make your changes
-4. ✅ Commit: `git commit -m "Add your feature"`
-5. 🚀 Push: `git push origin feature/your-feature`
-6. 📬 Open a Pull Request
-
----
 
 ## 📄 License
 
@@ -172,5 +153,4 @@ See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
-✅ You can now paste this into your `README.md` file directly. Let me know if you also want a badge for downloads, stars, or a banner image/logo!
-```
+Developed By Manikandan M😍
