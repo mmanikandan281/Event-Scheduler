@@ -115,17 +115,6 @@ End Time: 11:30
 10:00 - 11:30 : Team Meeting
 ```
 
----
-
-## 📁 Directory Structure
-
-```
-Event-Scheduler/
-├── src/
-│   └── event_scheduler.py     # Main application code
-├── README.md                  # Project documentation
-└── requirements.txt           # Python dependencies (empty)
-```
 
 ---
 
