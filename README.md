@@ -7,6 +7,10 @@ A user-friendly **desktop application** built with **Python** and **Tkinter** fo
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 
 ---
+# Output
+
+![Screenshot (92)](https://github.com/user-attachments/assets/3cbad09d-6f35-4a49-80ea-ebf3c812738f)
+
 
 ## 🔍 Overview
 
