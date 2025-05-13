@@ -64,7 +64,7 @@ cd Event-Scheduler
 Run the application with:
 
 ```bash
-python src/event_scheduler.py
+python src/event.py
 ```
 
 ### ➕ Add an Event
