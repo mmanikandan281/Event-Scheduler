@@ -66,9 +66,19 @@ End Time: 11:30
 The event appears on the timeline as a pastel-colored block and in the event list as "10:00 - 11:30 : Team Meeting."
 Directory Structure
 event-scheduler/
-└── event_scheduler.py  # Main application code
+├── src/
+│   └── event_scheduler.py  # Main application code
 ├── README.md              # Project documentation
 └── requirements.txt       # Python dependencies (empty, as Tkinter is built-in)
+
+Contributing
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature/your-feature).
+Make your changes and commit (git commit -m "Add your feature").
+Push to the branch (git push origin feature/your-feature).
+Open a Pull Request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
@@ -77,4 +87,5 @@ Acknowledgments
 Built with Python and Tkinter.
 Inspired by the need for simple, visual event planning tools.
 
-Developed by Manikandan M
+
+Replace your-username in the clone URL with your actual GitHub username.
